@@ -46,7 +46,3 @@ Club and event platform where students join clubs, admins run public or members-
 
 - 📧 shashankbaheti8@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/shashankbaheti8)
-
----
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shashankbaheti8&theme=dark&hide_border=false)
